@@ -1,0 +1,24 @@
+{
+  "name": "segmentFlow",
+  "description": "Asynchronous Page Segment Manager",
+  "version": "0.0.1",
+  "main": "./segmentFlow.node.js",
+  "author": {
+    "name": "Kye J. Davis",
+    "email": "kyle@higheredcareers.ca"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lru-cache" : "*",
+    "async" : "*",
+    "xtend" : "*"
+  },
+  "keywords": [
+    "asynchronous",
+    "fragment"
+  ],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/stockholmux/segmentFlow"
+  }
+}
