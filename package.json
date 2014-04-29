@@ -1,5 +1,5 @@
 {
-  "name": "segmentFlow",
+  "name": "segment-flow",
   "description": "Asynchronous Page Segment Manager",
   "version": "0.0.1",
   "main": "./segmentFlow.node.js",
